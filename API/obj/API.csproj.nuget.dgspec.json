@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\project\\DatingApp\\API\\API.csproj": {}
+    "E:\\project\\DatingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "E:\\project\\DatingApp\\API\\API.csproj": {
+    "E:\\project\\DatingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\project\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "E:\\project\\DatingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\project\\DatingApp\\API\\API.csproj",
+        "projectPath": "E:\\project\\DatingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Rishu\\.nuget\\packages\\",
-        "outputPath": "E:\\project\\DatingApp\\API\\obj\\",
+        "outputPath": "E:\\project\\DatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,15 +57,29 @@
                 "NU1605"
               ]
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -94,7 +108,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
