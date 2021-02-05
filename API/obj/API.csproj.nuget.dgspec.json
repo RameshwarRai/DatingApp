@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\project\\DatingApp\\api\\API.csproj": {}
+    "E:\\project\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\project\\DatingApp\\api\\API.csproj": {
+    "E:\\project\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\project\\DatingApp\\api\\API.csproj",
+        "projectUniqueName": "E:\\project\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\project\\DatingApp\\api\\API.csproj",
+        "projectPath": "E:\\project\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Rishu\\.nuget\\packages\\",
-        "outputPath": "E:\\project\\DatingApp\\api\\obj\\",
+        "outputPath": "E:\\project\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
