@@ -1,0 +1,6 @@
+npm install ngx-toastr
+ng g c not-found --skip-tests // for component creation
+ng g guard auth --skip-tests
+npm install bootswatch
+ng g m shared --flat
+ng g interceptor --skip--tests

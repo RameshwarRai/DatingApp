@@ -5899,11 +5899,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\project\\DatingApp\\api\\API.csproj",
+      "projectUniqueName": "E:\\project\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "E:\\project\\DatingApp\\api\\API.csproj",
+      "projectPath": "E:\\project\\DatingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Rishu\\.nuget\\packages\\",
-      "outputPath": "E:\\project\\DatingApp\\api\\obj\\",
+      "outputPath": "E:\\project\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6000,7 +6000,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }
